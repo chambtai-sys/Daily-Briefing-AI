@@ -1,0 +1,5 @@
+{
+  "name": "Daily Briefing AI",
+  "description": "Turns your news articles into a concise, personalized audio podcast for your commute.",
+  "requestFramePermissions": []
+}
